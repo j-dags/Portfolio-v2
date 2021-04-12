@@ -100,6 +100,7 @@ const Layout = ({ children, location }) => {
               <Email isHome={isHome} />
 
               <div id="content">
+                {/* children = page content */}
                 {children}
                 <Footer />
               </div>

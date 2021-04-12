@@ -52,16 +52,23 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Brittany Chiang.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const one = <h1>Hey! I'm</h1>;
+  const two = <h2 className="big-heading">Jon Dagdagan.</h2>;
+  const three = <h3 className="big-heading">Software engineer and teaching fellow.</h3>;
   const four = (
-    <p>
-      I'm a Boston-based software engineer who specializes in building (and occasionally designing)
-      exceptional digital experiences. Currently, I'm an engineer at{' '}
-      <a href="https://upstatement.com/">Upstatement</a> focused on building accessible,
-      human-centered products.
-    </p>
+    <>
+      <p>
+        As a former electrical engineer turned fullstack developer, I love crafting simple solutions
+        to interesting problems. Machine learning, responsive design, and physics-based animation
+        libraries are particular interests of mine. Currently, I'm a teaching fellow at{' '}
+        <a href="https://www.fullstackacademy.com/">Fullstack Academy</a> focused on empowering
+        individuals to establish careers in tech.
+      </p>
+      <p>
+        Outside of coding, you can find me out on a hike, soldering keyboards, or trying to find the
+        perfect hydration level for my pizza dough.
+      </p>
+    </>
   );
   const five = (
     <a href={`mailto:${email}`} className="email-link">
