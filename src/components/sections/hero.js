@@ -54,21 +54,14 @@ const Hero = () => {
 
   const one = <h1>Hey! I'm</h1>;
   const two = <h2 className="big-heading">Jon Dagdagan.</h2>;
-  const three = <h3 className="big-heading">Software engineer and teaching fellow.</h3>;
+  const three = <h3 className="big-heading">Software engineer.</h3>;
   const four = (
-    <>
-      <p>
-        As a former electrical engineer turned fullstack developer, I love crafting simple solutions
-        to interesting problems. Machine learning, responsive design, and physics-based animation
-        libraries are particular interests of mine. Currently, I'm a teaching fellow at{' '}
-        <a href="https://www.fullstackacademy.com/">Fullstack Academy</a> focused on empowering
-        individuals to establish careers in tech.
-      </p>
-      <p>
-        Outside of coding, you can find me out on a hike, soldering keyboards, or trying to find the
-        perfect hydration level for my pizza dough.
-      </p>
-    </>
+    <p>
+      I'm a chicago-based software engineer who specializes in crafting engaging online experiences.
+      Currently, I'm a teaching fellow at{' '}
+      <a href="https://www.fullstackacademy.com/">Fullstack Academy</a> focused on empowering
+      individuals to establish careers in tech. I'd love to connect!
+    </p>
   );
   const five = (
     <a href={`mailto:${email}`} className="email-link">
