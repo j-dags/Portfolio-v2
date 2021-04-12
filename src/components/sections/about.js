@@ -60,7 +60,7 @@ const StyledPic = styled.div`
     position: relative;
     width: 100%;
     border-radius: var(--border-radius);
-    background-color: var(--green);
+    background-color: #fffffe;
 
     &:hover,
     &:focus {
@@ -161,7 +161,6 @@ const About = () => {
 
         <StyledPic>
           <div className="wrapper">
-            <Img src="../../../public/Portrait.jpg" alt="Avatar" className="img" />
             <Img fluid={data.avatar.childImageSharp.fluid} alt="Avatar" className="img" />
           </div>
         </StyledPic>
