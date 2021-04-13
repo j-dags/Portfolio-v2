@@ -6,8 +6,8 @@ module.exports = {
     description:
       'Jon Dagdagan is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
     siteUrl: 'https://dagdagan.dev', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    image: '/Portfolio.png', // Path to your image you placed in the 'static' folder
+    // twitterUsername: '@bchiang7',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -25,7 +25,7 @@ module.exports = {
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
         display: 'minimal-ui',
-        icon: 'src/images/logo.png',
+        icon: 'src/images/favicons/favicon-32x32.png',
       },
     },
     `gatsby-plugin-offline`,

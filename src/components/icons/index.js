@@ -12,5 +12,5 @@ export { default as IconLoaderOriginal } from './loaderOriginal';
 export { default as IconLogo } from './logo';
 export { default as IconPlayStore } from './playstore';
 export { default as IconStar } from './star';
-export { default as IconTwitter } from './twitter';
+// export { default as IconTwitter } from './twitter';
 export { default as IconZap } from './zap';
