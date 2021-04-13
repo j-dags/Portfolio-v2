@@ -143,8 +143,8 @@ const About = () => {
           <div>
             <p>
               As a former electrical engineer turned fullstack developer, I love crafting simple
-              solutions to interesting problems. Machine learning, responsive design, and
-              physics-based animation libraries are particular interests of mine.
+              solutions to interesting problems. Machine learning, UI/UX, and physics-based
+              animation libraries are particular interests of mine.
             </p>
             <p>
               Outside of coding, you can find me out on a hike, soldering keyboards, or trying to
