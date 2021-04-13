@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/jdags/Portfolio-v2/main/src/images/Portfolio.png" width="100" />
+  <img alt="Logo" src="https://raw.githubusercontent.com/j-dags/Portfolio-v2/main/src/images/Portfolio.png" width="100" />
 </div>
 
 <p align="center">
