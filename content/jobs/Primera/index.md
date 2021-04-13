@@ -1,7 +1,7 @@
 ---
 date: '2015-01-01'
 title: 'Electrical Engineer II'
-company: 'Primera Engineers'
+company: 'Primera'
 location: 'Chicago, IL'
 range: '2015 - 2018'
 url: 'https://primeraeng.com/'

@@ -10,4 +10,4 @@ tech:
 showInProjects: true
 ---
 
-Natural language pre-processing explained for beginners. How to take a body of text and prepare it for a machine learning.
+Natural language pre-processing for beginners. How to take a body of text and prepare it for a machine learning.

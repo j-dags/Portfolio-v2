@@ -13,4 +13,4 @@ tech:
 showInProjects: true
 ---
 
-A fake news detection web app to help settle those tense debates at family gatherings. Leveraged Google Natural Language API and Python NLP libraries to scrape, process, and perform predictive analysis on news articles.
+Winning your fantasy league was never this easy! This nba stats tracker app helps fantasy basketball managers find the signal through the noise and win their leagues.
