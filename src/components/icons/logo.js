@@ -1,7 +1,7 @@
 import React from 'react';
 
 const IconLogo = () => (
-  <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 31 250">
+  <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 310 250">
     <path
       fill="none"
       stroke="#f9bc60"

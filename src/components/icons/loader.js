@@ -7,7 +7,7 @@ const IconLoader = () => (
     width="205"
     height="180"
     fill="none"
-    viewBox="0 0 31 250">
+    viewBox="0 0 310 250">
     <path
       fill="none"
       stroke="#f9bc60"
