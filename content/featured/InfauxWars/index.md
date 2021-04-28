@@ -1,6 +1,6 @@
 ---
 date: '3'
-title: 'InfauxWars'
+title: 'Infaux Wars'
 cover: './InfauxWars.png'
 github: 'https://github.com/j-dags/InfauxWars'
 external: 'https://infauxwars.herokuapp.com/'

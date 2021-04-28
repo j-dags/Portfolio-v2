@@ -1,6 +1,6 @@
 ---
 date: '1'
-title: 'Medium'
+title: 'Medium Article'
 cover: './Medium.png'
 # github: 'https://github.com/j-dags/InfauxWars'
 external: 'https://jon-dagdagan.medium.com/fake-news-detection-pre-processing-text-d9648a2854e5'
