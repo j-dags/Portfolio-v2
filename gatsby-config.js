@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Jon Dagdagan - Developer',
     description:
-      'Jon Dagdagan is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
+      'Jon Dagdagan is a chicago-based software engineer who specializes in crafting engaging online experiences.',
     siteUrl: 'https://dagdagan.dev', // No trailing slash allowed!
     image: '/Portfolio.png', // Path to your image you placed in the 'static' folder
     // twitterUsername: '@bchiang7',
