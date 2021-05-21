@@ -3,7 +3,7 @@ date: '2'
 title: 'Above The Break'
 cover: './AboveTheBreak.png'
 github: 'https://github.com/j-dags/AboveTheBreak'
-external: 'https://abovethebreak.herokuapp.com/'
+external: 'https://abovethebreakbball.web.app'
 tech:
   - React
   - React-Spring
