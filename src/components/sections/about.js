@@ -142,13 +142,13 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              As a former electrical engineer turned fullstack developer, I love crafting simple
-              solutions to interesting problems. Machine learning, UI/UX, and physics-based
-              animation libraries are particular interests of mine.
+              I'm a full-stack web developer with an eye for design. I love building solutions to
+              real-world problems and crafting exceptional digital experiences. A few areas of
+              interest: machine learning, physics-based animation, and UI/UX.
             </p>
             <p>
-              Outside of coding, you can find me out on a hike, soldering keyboards, or trying to
-              find the perfect hydration level for my pizza dough.
+              Outside of coding you can find me building keyboards, baking neapolitan pizza, or out
+              on the golf course.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
