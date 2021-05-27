@@ -147,8 +147,8 @@ const About = () => {
               interest: machine learning, physics-based animation, and UI/UX.
             </p>
             <p>
-              Outside of coding you can find me building keyboards, baking neapolitan pizza, or out
-              on the golf course.
+              Outside of coding you can find me building keyboards, out on the golf course, or
+              trying to find the perfect hydration level for my pizza dough.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
