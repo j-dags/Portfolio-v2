@@ -3,7 +3,7 @@ date: '2020-01-01'
 title: 'Teaching Fellow'
 company: 'Fullstack'
 location: 'Chicago, IL'
-range: '2020 - Present'
+range: '2020-2021'
 url: 'https://www.fullstackacademy.com/'
 ---
 

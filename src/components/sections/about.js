@@ -132,7 +132,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'React', 'Node.js', 'Framer-Motion', 'Python', 'Tensorflow'];
+  const skills = ['Typescript', 'React', 'AWS'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -142,9 +142,8 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              I'm a full-stack web developer with an eye for design. I love building solutions to
-              real-world problems and crafting exceptional digital experiences. A few areas of
-              interest: machine learning, physics-based animation, and UI/UX.
+              I'm a Frontend Engineer with an eye for design. I love building solutions to
+              real-world problems and crafting exceptional digital experiences.
             </p>
             <p>
               Outside of coding you can find me building keyboards, out on the golf course, or

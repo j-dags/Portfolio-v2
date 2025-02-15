@@ -14,4 +14,4 @@ All credit goes to the super talented <a href="https://github.com/bchiang7/v1" t
 
 ## About
 
-My personal portfolio site to showcase my work and provide links to socials and contact. Will be updated as more projects are completed.
+My personal portfolio site to showcase my work and provide links to socials and contact. Will be updated as more projects are completed. Deployed via Netlify.

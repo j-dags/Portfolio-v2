@@ -57,10 +57,8 @@ const Hero = () => {
   const three = <h3 className="big-heading">Software engineer.</h3>;
   const four = (
     <p>
-      I'm a chicago-based software engineer who specializes in crafting engaging online experiences.
-      Currently, I'm a teaching fellow at{' '}
-      <a href="https://www.fullstackacademy.com/">Fullstack Academy</a> focused on empowering
-      individuals to establish careers in tech. I'd love to connect!
+      I'm a Seattle-based frontend engineer who specializes in crafting engaging online experiences.
+      Currently, I'm building micro-frontends at Amazon.
     </p>
   );
   const five = (
