@@ -53,12 +53,12 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hey! I'm</h1>;
-  const two = <h2 className="big-heading">Jon Dagdagan.</h2>;
+  const two = <h2 className="big-heading">Jonathan Dagdagan.</h2>;
   const three = <h3 className="big-heading">Software engineer.</h3>;
   const four = (
     <p>
       I'm a Seattle-based frontend engineer who specializes in crafting engaging online experiences.
-      Currently, I'm building micro-frontends at Amazon.
+      Currently, I'm building micro-frontends at <a href="https://amazon.com">Amazon</a>.
     </p>
   );
   const five = (
